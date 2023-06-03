@@ -1,0 +1,13 @@
+.caja {
+    display: flex;
+    border: 1px red solid;
+    border-radius: 20px;
+    flex-direction: column;
+    padding: 20px;
+    margin-top: 50px;
+    
+}
+.titulo {
+    font-size: 24px;
+
+}
